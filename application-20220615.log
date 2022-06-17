@@ -1,0 +1,263 @@
+2022-06-15 13:17:36.760 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 13:17:36.765 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 13:18:01.460 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 13:18:01.465 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 14:53:52.320 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 14:53:52.324 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 14:54:55.845 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 14:54:55.850 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 14:55:23.901 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 14:55:23.905 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 14:55:27.071 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 14:55:27.071 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:05:20.861 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:05:20.865 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:06:06.153 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:06:06.158 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:06:41.119 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:06:41.124 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:06:58.544 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:06:58.544 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:07:11.433 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:07:11.437 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:05:20.878 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:05:20.885 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:05:20.904 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:06:06.148 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:06:06.149 [pool-4-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:06:06.158 [pool-4-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:06:41.115 [ForkJoinPool-1-worker-3] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:06:41.116 [pool-5-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:06:41.125 [pool-5-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:06:58.545 [ForkJoinPool-1-worker-4] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:06:58.546 [pool-6-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:06:58.593 [pool-6-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:07:11.429 [ForkJoinPool-1-worker-4] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:07:11.430 [pool-7-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:07:11.438 [pool-7-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:49:04.865 [ForkJoinPool-1-worker-5] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:49:04.867 [pool-8-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:49:04.877 [pool-8-thread-1] ERROR database.DBAuthorize - Проблемы с базой данных
+2022-06-15 15:49:04.868 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:49:04.876 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:49:43.912 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:49:43.912 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:51:29.798 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:51:29.803 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:52:25.064 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:52:25.070 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:56:37.110 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:56:37.113 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:57:21.654 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:57:21.658 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:57:55.160 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:57:55.164 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:59:01.446 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:59:01.452 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:59:25.680 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:59:25.686 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:59:52.298 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 15:59:52.303 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 16:01:20.234 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 16:01:20.238 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 16:02:35.657 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 16:02:35.661 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 16:03:42.160 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 16:03:42.163 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 16:07:24.554 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 16:07:24.558 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 16:10:51.998 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 16:10:52.002 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 16:17:55.725 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 16:17:55.731 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 16:22:06.786 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 16:22:06.792 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 15:49:43.934 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:49:43.940 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:49:43.952 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:51:29.793 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:51:29.794 [pool-4-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:51:29.800 [pool-4-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:52:25.060 [ForkJoinPool-1-worker-3] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:52:25.061 [pool-5-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:52:25.070 [pool-5-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:56:37.107 [ForkJoinPool-1-worker-4] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:56:37.108 [pool-6-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:56:37.114 [pool-6-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:57:21.650 [ForkJoinPool-1-worker-5] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:57:21.651 [pool-7-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:57:21.730 [pool-7-thread-1] INFO  database.DBAuthorize - Пользователь  успешно зарегистрировался в системе
+2022-06-15 15:57:55.157 [ForkJoinPool-1-worker-6] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:57:55.158 [pool-8-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:57:55.165 [pool-8-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 15:59:01.440 [ForkJoinPool-1-worker-7] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:59:01.442 [pool-9-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:59:01.455 [pool-9-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 15:59:25.675 [ForkJoinPool-1-worker-0] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:59:25.676 [pool-10-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:59:25.682 [pool-10-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 15:59:52.295 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 15:59:52.296 [pool-11-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 15:59:52.303 [pool-11-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 16:01:20.230 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 16:01:20.231 [pool-12-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 16:01:20.238 [pool-12-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 16:02:35.654 [ForkJoinPool-1-worker-3] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 16:02:35.655 [pool-13-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 16:02:35.661 [pool-13-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 16:03:42.156 [ForkJoinPool-1-worker-4] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 16:03:42.157 [pool-14-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 16:03:42.162 [pool-14-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 16:07:24.551 [ForkJoinPool-1-worker-5] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 16:07:24.552 [pool-15-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 16:07:24.560 [pool-15-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 16:10:51.995 [ForkJoinPool-1-worker-6] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 16:10:51.996 [pool-16-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 16:10:52.001 [pool-16-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 16:13:54.350 [ForkJoinPool-1-worker-7] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 16:13:54.352 [pool-17-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 16:13:54.359 [pool-17-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 16:17:55.719 [ForkJoinPool-1-worker-0] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 16:17:55.720 [pool-18-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 16:17:55.730 [pool-18-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 16:22:06.782 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 16:22:06.783 [pool-19-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 16:22:06.793 [pool-19-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 17:30:47.452 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:30:47.455 [pool-20-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:31:01.314 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:31:01.315 [pool-21-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:31:15.137 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:31:15.145 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:31:15.156 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 17:30:47.453 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:30:47.459 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:31:01.313 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:31:01.313 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:31:15.117 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:31:15.117 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:35:11.599 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:35:11.604 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:36:20.788 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:36:20.792 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:37:31.117 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:37:31.123 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:39:20.598 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:39:20.602 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:39:57.630 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:39:57.636 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:41:01.671 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 17:41:01.675 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 17:35:11.617 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:35:11.624 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:35:11.633 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 17:36:20.785 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:36:20.785 [pool-4-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:36:20.792 [pool-4-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 17:37:31.112 [ForkJoinPool-1-worker-3] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:37:31.113 [pool-5-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:37:31.132 [pool-5-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 17:39:20.594 [ForkJoinPool-1-worker-4] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:39:20.595 [pool-6-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:39:20.620 [pool-6-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 17:39:57.625 [ForkJoinPool-1-worker-5] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:39:57.626 [pool-7-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:39:57.643 [pool-7-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 17:41:01.668 [ForkJoinPool-1-worker-6] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 17:41:01.668 [pool-8-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 17:41:01.683 [pool-8-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 18:33:06.567 [ForkJoinPool-1-worker-7] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:33:06.569 [pool-9-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:33:06.563 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:33:06.567 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:33:55.161 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:33:55.162 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:36:17.698 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:36:17.702 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:37:06.976 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:37:06.981 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:37:31.214 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:37:31.218 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:38:31.610 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:38:31.615 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:39:34.888 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:39:34.893 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:41:07.224 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:41:07.228 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:46:52.967 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 18:46:52.972 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 18:33:55.181 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:33:55.186 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:33:55.198 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 18:36:17.694 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:36:17.695 [pool-4-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:36:17.703 [pool-4-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 18:37:06.971 [ForkJoinPool-1-worker-3] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:37:06.973 [pool-5-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:37:06.989 [pool-5-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 18:37:31.210 [ForkJoinPool-1-worker-4] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:37:31.211 [pool-6-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:37:31.220 [pool-6-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 18:38:31.606 [ForkJoinPool-1-worker-5] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:38:31.608 [pool-7-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:38:31.614 [pool-7-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 18:39:34.885 [ForkJoinPool-1-worker-6] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:39:34.886 [pool-8-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:39:34.893 [pool-8-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 18:41:07.221 [ForkJoinPool-1-worker-7] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:41:07.221 [pool-9-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:41:07.234 [pool-9-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 18:46:52.962 [ForkJoinPool-1-worker-0] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 18:46:52.963 [pool-10-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 18:46:52.980 [pool-10-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 20:46:44.369 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 20:46:44.374 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 20:49:24.581 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 20:49:24.586 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 20:57:27.488 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 20:57:27.492 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 20:46:44.387 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 20:46:44.394 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 20:46:44.405 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 20:49:24.577 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 20:49:24.579 [pool-4-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 20:49:24.622 [pool-4-thread-1] INFO  database.DBAuthorize - Пользователь brvka успешно зарегистрировался в системе
+2022-06-15 20:57:27.484 [ForkJoinPool-1-worker-3] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 20:57:27.486 [pool-5-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 20:57:27.491 [pool-5-thread-1] INFO  database.DBAuthorize - Пользователь brvka успешно вошел в систему
+2022-06-15 22:15:27.323 [ForkJoinPool-1-worker-4] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 22:15:27.328 [pool-6-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 22:15:27.311 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:15:27.315 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 22:16:07.595 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:16:07.595 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 22:16:07.622 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 22:16:07.628 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 22:16:07.640 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь maxlap71 успешно вошел в систему
+2022-06-15 22:37:57.225 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 22:37:57.234 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 22:37:57.246 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 22:37:13.287 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:37:13.291 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 22:37:26.410 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:37:26.411 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 22:37:57.203 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:37:57.204 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 22:38:58.079 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:38:58.085 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 22:38:58.093 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 22:38:58.100 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 22:38:58.115 [pool-3-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 22:39:50.714 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 22:39:50.715 [pool-4-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-15 22:39:50.722 [pool-4-thread-1] INFO  database.DBAuthorize - Пользователь  успешно вошел в систему
+2022-06-15 22:39:56.402 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 22:39:56.415 [pool-5-thread-1] INFO  CollectionManager - Команда clear успешно выполнена!
+2022-06-15 22:40:05.193 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-15 22:40:05.194 [pool-6-thread-1] INFO  CollectionManager - Команда print_field_descending_type успешно отправлена!
+2022-06-15 22:39:50.718 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:39:50.723 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 22:39:56.400 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:39:56.401 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-15 22:40:05.192 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-15 22:40:05.192 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
