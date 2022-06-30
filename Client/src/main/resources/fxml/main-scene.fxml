@@ -41,14 +41,28 @@
                   <Font size="26.0" />
                </font>
             </Label>
-            <ChoiceBox fx:id="languageChoice" layoutX="424.0" layoutY="348.0" prefHeight="25.0" prefWidth="70.0" />
-            <ChoiceBox fx:id="filterChoice" layoutX="23.0" layoutY="108.0" prefHeight="25.0" prefWidth="191.0" />
-            <TextField fx:id="filter" layoutX="234.0" layoutY="108.0" prefHeight="25.0" prefWidth="261.0" />
-            <ChoiceBox fx:id="commandChoice" layoutX="23.0" layoutY="157.0" prefHeight="25.0" prefWidth="191.0" />
-            <Button fx:id="executeBtn" layoutX="234.0" layoutY="157.0" mnemonicParsing="false" onAction="#executeCmd" prefHeight="25.0" prefWidth="126.0" text="execute" />
+            <ChoiceBox fx:id="languageChoice" layoutX="23.0" layoutY="340.0" prefHeight="25.0" prefWidth="70.0" />
+            <ChoiceBox fx:id="filterChoice" layoutX="22.0" layoutY="130.0" prefHeight="25.0" prefWidth="191.0" />
+            <TextField fx:id="filter" layoutX="233.0" layoutY="130.0" prefHeight="25.0" prefWidth="261.0" />
+            <ChoiceBox fx:id="commandChoice" layoutX="22.0" layoutY="213.0" prefHeight="25.0" prefWidth="191.0" />
+            <Button fx:id="executeBtn" layoutX="233.0" layoutY="213.0" mnemonicParsing="false" onAction="#executeCmd" prefHeight="25.0" prefWidth="126.0" text="execute" />
             <Label fx:id="helpLabel" layoutX="23.0" layoutY="352.0" />
-            <Label fx:id="helpLabel" layoutX="33.0" layoutY="352.0" onMouseClicked="#showHelp" text="help" />
+            <Label fx:id="helpLabel" alignment="CENTER" layoutX="21.0" layoutY="262.0" onMouseClicked="#showHelp" prefHeight="25.0" prefWidth="472.0" text="help">
+               <font>
+                  <Font size="16.0" />
+               </font></Label>
             <Label fx:id="userColor" layoutX="389.0" layoutY="23.0" prefHeight="38.0" prefWidth="106.0" />
+            <Label alignment="CENTER" layoutX="22.0" layoutY="92.0" prefHeight="25.0" prefWidth="472.0" text="%filtration" textAlignment="CENTER">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="22.0" layoutY="181.0" prefHeight="25.0" prefWidth="472.0" text="%execution" textAlignment="CENTER">
+               <font>
+                  <Font size="16.0" />
+               </font>
+            </Label>
+            <Button fx:id="logoutBtn" layoutX="424.0" layoutY="340.0" mnemonicParsing="false" onAction="#logout" prefHeight="25.0" prefWidth="70.0" text="%logout" textAlignment="CENTER" />
          </children>
          <opaqueInsets>
             <Insets />

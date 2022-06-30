@@ -15,6 +15,7 @@ public class DBConnect {
 
             Properties properties = new Properties();
             FileReader fileReader = new FileReader("C:\\Users\\maks-\\GoogleDrive\\programming\\java\\lab8_all\\lab8\\Common\\src\\main\\resources\\db.properties");
+//            FileReader fileReader = new FileReader("db.properties");
             properties.load(fileReader);
             url = properties.getProperty("db.localurl");
             user = properties.getProperty("db.username");

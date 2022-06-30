@@ -118,6 +118,9 @@ public class MainScene implements Initializable {
     @FXML
     private ChoiceBox<String> languageChoice;
 
+    @FXML
+    private Button logoutBtn;
+
     private String[] table_names;
     private String[] languages = {"RU", "EN", "FI", "IT"};
 
@@ -383,6 +386,23 @@ public class MainScene implements Initializable {
         String lang = languageChoice.getValue();
         this.resources = ResourceBundle.getBundle("bundles.Locale", new Locale(lang));
         reload(event);
+    }
+
+    public void logout(ActionEvent event){
+        try{
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/login.fxml"), resources);
+            root = loader.load();
+
+            Login login = loader.getController();
+            login.setClient(clientReceiver, clientSender);
+
+            stage = (Stage)((Node)event.getSource()).getScene().getWindow();
+            scene = new Scene(root);
+            stage.setScene(scene);
+            stage.show();
+        }catch (Exception e){
+            e.printStackTrace();
+        }
     }
 
 

@@ -11,6 +11,7 @@ import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
+import javafx.scene.control.ChoiceBox;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.text.Text;
@@ -18,6 +19,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 import java.net.URL;
+import java.util.Locale;
 import java.util.ResourceBundle;
 
 public class Login implements Initializable {
@@ -30,6 +32,7 @@ public class Login implements Initializable {
     private ClientSender clientSender;
     private ClientReceiver clientReceiver;
     private ResourceBundle resources;
+    private String[] languages = {"RU", "EN", "FI", "IT"};
 
     @FXML
     private TextField usernameInput;
@@ -39,6 +42,9 @@ public class Login implements Initializable {
 
     @FXML
     private Text errorText;
+
+    @FXML
+    private ChoiceBox<String> languageChoice;
 
 
     public void setClient(ClientReceiver clientReceiver, ClientSender clientSender) {
@@ -84,8 +90,33 @@ public class Login implements Initializable {
         stage.show();
     }
 
+    public void changeLanguage(ActionEvent event){
+        String lang = languageChoice.getValue();
+        this.resources = ResourceBundle.getBundle("bundles.Locale", new Locale(lang));
+        reload(event);
+    }
+
+    public void reload(ActionEvent event){
+        try{
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/login.fxml"), resources);
+            root = loader.load();
+
+            Login login = loader.getController();
+            login.setClient(clientReceiver, clientSender);
+
+            stage = (Stage)((Node)event.getSource()).getScene().getWindow();
+            scene = new Scene(root);
+            stage.setScene(scene);
+            stage.show();
+        }catch (IOException e){
+            e.printStackTrace();
+        }
+    }
+
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         this.resources = resources;
+        languageChoice.getItems().addAll(languages);
+        languageChoice.setOnAction(this::changeLanguage);
     }
 }

@@ -12,7 +12,7 @@ import java.util.ResourceBundle;
 
 public class Client extends Application {
     @Override
-    public void start(Stage primaryStage) throws Exception {
+    public void start(Stage primaryStage) {
         try{
             DatagramChannel channel = DatagramChannel.open();
             channel.configureBlocking(false);

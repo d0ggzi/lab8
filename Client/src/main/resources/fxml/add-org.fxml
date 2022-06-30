@@ -9,30 +9,30 @@
 
 <AnchorPane prefHeight="694.0" prefWidth="369.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controllers.NewOrgController">
    <children>
-      <Label fx:id="newOrgText" layoutX="60.0" layoutY="21.0" prefHeight="17.0" prefWidth="250.0" text="%newOrgText" textAlignment="CENTER">
+      <Label fx:id="newOrgText" alignment="CENTER" layoutX="60.0" layoutY="21.0" prefHeight="17.0" prefWidth="250.0" text="%newOrgText" textAlignment="CENTER">
          <font>
             <Font size="18.0" />
          </font>
       </Label>
-      <Label layoutX="27.0" layoutY="67.0" prefHeight="27.0" prefWidth="95.0" text="%org.name" textAlignment="RIGHT" />
-      <Label layoutX="27.0" layoutY="116.0" prefHeight="27.0" prefWidth="95.0" text="x" textAlignment="RIGHT" />
-      <Label layoutX="27.0" layoutY="213.0" prefHeight="43.0" prefWidth="95.0" text="%annualturnover" textAlignment="RIGHT" />
-      <Label layoutX="27.0" layoutY="265.0" prefHeight="43.0" prefWidth="95.0" text="%employeescount" textAlignment="RIGHT" />
-      <Label layoutX="27.0" layoutY="375.0" prefHeight="27.0" prefWidth="95.0" text="zipCode" textAlignment="RIGHT" />
-      <Label layoutX="27.0" layoutY="171.0" prefHeight="27.0" prefWidth="95.0" text="y" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="67.0" prefHeight="27.0" prefWidth="95.0" text="%org.name" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="116.0" prefHeight="27.0" prefWidth="95.0" text="x" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="213.0" prefHeight="43.0" prefWidth="95.0" text="%annualturnover" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="265.0" prefHeight="43.0" prefWidth="95.0" text="%employeescount" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="375.0" prefHeight="27.0" prefWidth="95.0" text="zipCode" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="171.0" prefHeight="27.0" prefWidth="95.0" text="y" textAlignment="RIGHT" />
       <TextField fx:id="newOrgName" layoutX="161.0" layoutY="68.0" />
       <TextField fx:id="newOrgX" layoutX="161.0" layoutY="117.0" />
       <TextField fx:id="newOrgY" layoutX="161.0" layoutY="172.0" />
       <TextField fx:id="newOrgAnn" layoutX="161.0" layoutY="221.0" />
       <TextField fx:id="newOrgEmpl" layoutX="161.0" layoutY="275.0" />
       <TextField fx:id="newOrgZip" layoutX="161.0" layoutY="376.0" />
-      <Label layoutX="27.0" layoutY="423.0" prefHeight="27.0" prefWidth="95.0" text="loc: x" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="423.0" prefHeight="27.0" prefWidth="95.0" text="loc: x" textAlignment="RIGHT" />
       <TextField fx:id="newOrgLocX" layoutX="161.0" layoutY="424.0" />
-      <Label layoutX="27.0" layoutY="471.0" prefHeight="27.0" prefWidth="95.0" text="loc: y" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="471.0" prefHeight="27.0" prefWidth="95.0" text="loc: y" textAlignment="RIGHT" />
       <TextField fx:id="newOrgLocY" layoutX="161.0" layoutY="472.0" />
-      <Label layoutX="27.0" layoutY="518.0" prefHeight="27.0" prefWidth="95.0" text="loc: z" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="518.0" prefHeight="27.0" prefWidth="95.0" text="loc: z" textAlignment="RIGHT" />
       <TextField fx:id="newOrgLocZ" layoutX="161.0" layoutY="519.0" />
-      <Label layoutX="27.0" layoutY="324.0" prefHeight="27.0" prefWidth="95.0" text="%orgtype" textAlignment="RIGHT" />
+      <Label alignment="CENTER_RIGHT" layoutX="27.0" layoutY="324.0" prefHeight="27.0" prefWidth="95.0" text="%orgtype" textAlignment="RIGHT" />
       <ChoiceBox fx:id="newOrgType" layoutX="162.0" layoutY="325.0" prefWidth="150.0" />
       <Button fx:id="newOrgBtn" layoutX="132.0" layoutY="632.0" mnemonicParsing="false" onAction="#getNewOrg" prefHeight="36.0" prefWidth="106.0" text="%newOrgBtn" />
    </children>
