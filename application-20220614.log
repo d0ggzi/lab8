@@ -1,6 +1,0 @@
-2022-06-14 23:07:39.471 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
-2022-06-14 23:07:39.476 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
-2022-06-14 23:07:39.985 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
-2022-06-14 23:07:39.985 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
-2022-06-14 23:07:42.897 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
-2022-06-14 23:07:42.897 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 

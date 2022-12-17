@@ -1,5 +1,0 @@
-2022-12-17 23:44:02.409 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
-2022-12-17 23:44:02.427 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
-2022-12-17 23:44:02.440 [pool-3-thread-1] ERROR database.DBAuthorize - Проблемы с базой данных
-2022-12-17 23:44:02.369 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
-2022-12-17 23:44:02.382 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
