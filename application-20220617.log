@@ -1,0 +1,93 @@
+2022-06-17 00:03:59.942 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 00:03:59.945 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 00:04:30.971 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 00:04:30.971 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 00:50:12.025 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 00:50:12.025 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 00:50:46.641 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 00:50:46.645 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:05:33.389 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:05:33.393 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:07:34.880 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:07:34.883 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:08:04.368 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:08:04.368 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:08:25.776 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:08:25.777 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:09:00.687 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:09:00.691 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:09:54.776 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:09:54.780 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:23:42.779 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:23:42.783 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:24:11.601 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:24:11.602 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:25:27.574 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:25:27.580 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:31:49.579 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:31:49.583 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:33:25.024 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:33:25.027 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:33:53.958 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:33:53.962 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:46:08.597 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:46:08.600 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:46:44.683 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:46:44.683 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:50:14.138 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:50:14.144 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:52:32.499 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:52:32.503 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:55:08.633 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:55:08.637 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:55:29.715 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:55:29.716 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:55:40.925 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:55:40.925 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:55:55.660 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:55:55.660 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:53:28.533 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:53:28.537 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:53:38.976 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:53:38.976 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:54:00.656 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:54:00.658 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:54:37.071 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:54:37.072 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:57:03.846 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:57:03.847 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 01:53:12.097 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 01:53:12.101 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 04:22:37.079 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 04:22:37.082 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 10:00:32.704 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 10:00:32.709 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 10:00:44.224 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 10:00:44.224 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 10:01:06.709 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 10:01:06.713 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 10:01:33.847 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 10:01:33.851 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 10:01:44.998 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 10:01:44.998 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 10:05:06.880 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 10:05:06.880 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 10:08:52.618 [JavaFX Application Thread] INFO  Controllers.ClientSender - Отправка команды серверу
+2022-06-17 10:08:52.619 [JavaFX Application Thread] INFO  Controllers.ClientReceiver - Клиент получает сообщение: 
+2022-06-17 10:00:32.725 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-17 10:00:32.739 [pool-3-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-17 10:00:44.225 [ForkJoinPool-1-worker-1] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-17 10:00:44.226 [pool-4-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-17 10:00:44.267 [pool-4-thread-1] INFO  database.DBAuthorize - Пользователь p успешно зарегистрировался в системе
+2022-06-17 10:01:06.705 [ForkJoinPool-1-worker-2] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-17 10:01:06.706 [pool-5-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-17 10:01:06.713 [pool-5-thread-1] INFO  database.DBAuthorize - Пользователь p успешно вошел в систему
+2022-06-17 10:01:33.844 [ForkJoinPool-1-worker-3] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-17 10:01:33.845 [pool-6-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-17 10:01:44.998 [ForkJoinPool-1-worker-3] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-17 10:01:45.011 [pool-7-thread-1] INFO  CollectionManager - Попытка пользователя авторизироваться
+2022-06-17 10:01:45.021 [pool-7-thread-1] INFO  database.DBAuthorize - Пользователь p успешно вошел в систему
+2022-06-17 10:05:06.892 [ForkJoinPool-1-worker-4] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-17 10:05:06.979 [pool-8-thread-1] INFO  CollectionManager - Команда add успешно выполнена!
+2022-06-17 10:08:52.622 [ForkJoinPool-1-worker-5] INFO  ServerReceiver - Пришло сообщение от клиента: 
+2022-06-17 10:08:52.741 [pool-9-thread-1] INFO  CollectionManager - Команда update успешно выполнена!

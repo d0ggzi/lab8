@@ -590,7 +590,7 @@ public class MainScene implements Initializable {
             }
         }
         catch (SQLException e){
-            System.out.println(e);
+            System.out.println("Не удается загрузить данные");
         }
     }
 }
