@@ -533,10 +533,6 @@ public class MainScene implements Initializable {
                 }
             case "Update":
                 updatingOrg(null);
-//            case "execute_script":
-//                ScriptCmd scriptCmd = new ScriptCmd();
-//                scriptCmd.startClient(userCommand[1], this);
-//                break;
         }
     }
 

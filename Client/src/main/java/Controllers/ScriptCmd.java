@@ -117,6 +117,5 @@ public class ScriptCmd extends Command {
         }catch (Exception e) {
             System.out.print("");
         }
-        // C:\Users\maks-\GoogleDrive\programming\java\lab6_all\lab6\Client\src\main\resources\script.txt
     }
 }

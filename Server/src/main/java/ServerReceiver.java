@@ -16,18 +16,6 @@ import commands.HelpCmd;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-//public void read(SelectionKey key) throws IOException{
-//        DatagramChannel channel = (DatagramChannel) key.channel();
-//        ByteBuffer buf = ByteBuffer.allocate(100);
-//        InetSocketAddress socketAddress = (InetSocketAddress) channel.receive(buf);
-//        System.out.println("client ip and port:"+socketAddress.getHostString()+","+socketAddress.getPort());
-//        byte[] data = buf.array();
-//        String msg = new String(data).trim();
-//        System.out.println("message come from client:"+msg);
-//        channel.send(ByteBuffer.wrap(new String("Hello client!").getBytes()),socketAddress);
-//        channel.close();
-//        }
-
 public class ServerReceiver extends RecursiveAction{
     private static DatagramPacket datagramPack;
     private static final Logger logger = LogManager.getLogger(ServerReceiver.class);

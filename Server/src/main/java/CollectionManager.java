@@ -35,7 +35,6 @@ public class CollectionManager implements Runnable{
     protected static HashMap<String, String> commands;
     private Date initiazitionDate;
     Connection con;
-//    final ScriptCmd script = new ScriptCmd();
     File workFile = null;
     private static final Logger logger = LogManager.getLogger(CollectionManager.class);
     Command cmd;
@@ -324,22 +323,6 @@ public class CollectionManager implements Runnable{
         } finally {
             writeLock.unlock();
         }
-//        if (organizations.stream().filter(org -> org.getId() == id).collect(Collectors.toList()).size() == 0){
-//            updateText = "Не существует организации с id " + id;
-//        } else{
-//            organizations.stream().filter(el -> {
-//                if (el.getId() == id){
-//                    el.setName(updatedOrg.getName());
-//                    el.setCoordinates(updatedOrg.getCoordinates());
-//                    el.setAnnualTurnover(updatedOrg.getAnnualTurnover());
-//                    el.setEmployeesCount(updatedOrg.getEmployeesCount());
-//                    el.setType(updatedOrg.getType());
-//                    el.setPostalAddress(updatedOrg.getPostalAddress());
-//                }
-//                return true;
-//            }).collect(Collectors.toList());
-//            updateText = "Организация успешно обновлена.";
-//        }
         ServerMessage serverMessage = new ServerMessage(updateText);
         ServerSender serverSender = new ServerSender(serverMessage, channel, socketAddress);
         executorService.execute(serverSender);
